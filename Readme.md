@@ -107,7 +107,7 @@ performances and carries the capacity discovered from other shows at the same ve
 
 ## Output
 
-Written to `concordia_output.csv` in the working directory.
+Written to `output.csv` in the working directory.
 
 ### Columns
 
