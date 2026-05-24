@@ -238,4 +238,4 @@ has loaded.
 **`is_limited_run` derivation**
 Set to `True` when a `close_date` is present (derived from the last performance date),
 and `False` otherwise. All Concordia productions have defined run dates so this will
-always resolve to `True` in practice, but it is data-driven rather than hardcoded.
+always resolve to `True` in practice, But it is data-driven rather than hardcoded.
