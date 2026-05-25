@@ -167,7 +167,7 @@ The validator runs automatically after the CSV is written and prints a
 `PASSED` / `FAILED` summary to the console. To run the validator separately:
 
 ```powershell
-python src/utils/csv_validator.py concordia_output.csv
+python src/utils/csv_validator.py output.csv
 ```
 
 ---
